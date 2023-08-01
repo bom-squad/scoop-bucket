@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/bom-squad/sbom-convert/releases/download/v0.0.1/sbom-convert_windows_i386.zip",
+            "bin": [
+                "sbom-convert.exe"
+            ],
+            "hash": "4e8034be5aa4754ab5572918c9a3f79f682b0d0ca2f24374fb1f7dc777c2b426"
+        },
+        "64bit": {
+            "url": "https://github.com/bom-squad/sbom-convert/releases/download/v0.0.1/sbom-convert_windows_x86_64.zip",
+            "bin": [
+                "sbom-convert.exe"
+            ],
+            "hash": "cdc9d57358dfa30a211026cecb6412b47b208c0c6e6a26dd43673f6b0d4da61a"
+        }
+    },
+    "homepage": "https://github.com/bom-squad/sbom-convert",
+    "license": "Apache-2.0",
+    "description": "A tool to convert between different Software Bill of Materials (SBOM) formats."
+}
